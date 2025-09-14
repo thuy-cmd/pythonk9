@@ -41,3 +41,7 @@
 # 10) Kéo nhánh của bạn cùng lớp (nếu cần xem code bạn ấy)
 
 # git fetch origin && git checkout -b friend/<ten-nhanh> origin/<ten-nhanh>
+
+# Cap nhat lai file thu xem
+
+# Da cap nhat
