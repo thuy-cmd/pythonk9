@@ -43,5 +43,3 @@
 # git fetch origin && git checkout -b friend/<ten-nhanh> origin/<ten-nhanh>
 
 # Cap nhat lai file thu xem
-
-# Da cap nhat
